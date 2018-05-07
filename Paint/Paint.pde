@@ -1,12 +1,11 @@
 PImage img;
-final float minWidth = 3;
-final float maxWidth = 6;
+final float minWidth = 2;
+final float maxWidth = 4;
 final float minJump = 10;
 final float maxJump = 15;
 final float len = 3;
 final float map_mul = 10;
-//final String img_path = "input.jpeg";
-final String img_path = "https://www.nature.com/polopoly_fs/7.44180.1495028629!/image/WEB_GettyImages-494098244.jpg_gen/derivatives/landscape_630/WEB_GettyImages-494098244.jpg";
+final String img_path = "input.jpeg";
 final int iter = 500;
 final float opacity = 1.5;
 
