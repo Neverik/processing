@@ -1,6 +1,6 @@
 final String normal_path = "normal.jpeg";
 final String image_path = "image.jpeg";
-final float blur = 0.7;
+final float blur = 1.5;
 PImage normal_img;
 PImage img;
 boolean drawn = true;
